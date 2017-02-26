@@ -1,1 +1,15 @@
 theme: jekyll-theme-slate
+
+# Site settings
+title: "Zhiyi Luo"
+description: > cs.zyluo@gmail.com
+
+email: cs.zyluo@gmail.com
+
+
+name: 'Zhiyi Luo'
+author: 'Zhiyi Luo'
+
+url: "http://cs-zyluo.github.io/index"
+baseur: ""
+
