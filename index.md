@@ -1,4 +1,4 @@
-# Welcome to Zhiyi Luo's Homepage!
+# Zhiyi Luo (罗志一)
 
 ## Projects
 *  [CausalNet](http://cs-zyluo.github.io/CausalNet/)
