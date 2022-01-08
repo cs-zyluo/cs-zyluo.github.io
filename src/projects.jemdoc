@@ -1,4 +1,4 @@
-# jemdoc: {projects.html}, nodate
+# jemdoc: menu{MENU}{projects.html}, nodate
 = Projects
 
 #== 
