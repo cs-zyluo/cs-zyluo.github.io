@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{index.html}, nodate
 = 罗志一（Zhiyi Luo）~ 学术主页
 [] \n
 ~~~
@@ -32,3 +32,4 @@ the *Zhejiang Sci-Tech University* in 2021.
 
 # == Publications
 
+# Run: jemdoc -o index.html src/index.jemdoc
