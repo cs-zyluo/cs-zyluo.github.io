@@ -10,7 +10,7 @@
 
 == [img{25px}{15px}{alt text} photos/new.gif] Python程序设计* (2022-2023-1)-02914-1
 ~~~~
-[teaching/python/0_Welcome.pdf 0908_welcome]~~ [teaching/python/0_1_Basis.pdf 0908_basis]~~ [teaching/python/1_intro.pdf 0915_intro] ~~ [teaching/python/2_variables_numbers.pdf 0922-0929_variables_expressions_statements]\n
+[teaching/python/0_Welcome.pdf 0908_welcome]~~ [teaching/python/0_1_Basis.pdf 0908_basis]~~ [teaching/python/1_intro.pdf 0915_intro] ~~ [teaching/python/2_variables_numbers.pdf 0922-0929_variables_expressions_statements] ~~ [teaching/python/3_builtin_tuples_lists.pdf 1008_lists_strings_tuples] ~~ [teaching/python/4_builtin_sets_dicts.pdf 1013_dicts_sets]\n
 \n
 [teaching/python/python-asg1.pdf 0929_assignment1]\n
 ~~~~
