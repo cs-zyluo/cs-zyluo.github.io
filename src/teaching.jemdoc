@@ -20,7 +20,9 @@
 
 [teaching/python/3_builtin_tuples_lists.pdf 1008_lists_strings_tuples] ~~ [teaching/python/4_builtin_sets_dicts.pdf 1013_dicts_sets] ~~ [teaching/python/5_control_flow_1.pdf 1027_control_flow_part1] ~~ [teaching/python/6_control_flow_2.pdf 1103_control_flow_part2] ~~\n
 
-[teaching/python/7_function_1.pdf 1110_function_part1]
+[teaching/python/7_function_1.pdf 1110_function_part1] ~~ [teaching/python/7_function_2.pdf 1117_function_part2] ~~ [teaching/python/8_problem_set.pdf 1124_problem_set1] ~~ [teaching/python/9_files.pdf 1201_files] ~~ \n
+[teaching/python/10_classes.pdf 1208_classes] ~~ [teaching/python/11_review.pdf 1215_review.pdf] ~~ [teaching/python/12_problem_set2.pdf 1222_problem_set2] ~~ \n
+
 \n
 \n
 [teaching/python/python-asg1.pdf 0929_assignment1]\n
