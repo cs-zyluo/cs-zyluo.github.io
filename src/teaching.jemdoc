@@ -3,34 +3,17 @@
 ~~~~~~~~~~~~~~~~~~~~
 - *Note: 本学期课件可通过外网访问下载，往届课件需要使用浙江理工大学校园网进行下载。*
 []\n
-== [img{25px}{15px}{alt text} photos/new.gif] Python程序设计 (2023-2024-1)-02030/02031-1
+== [img{25px}{15px}{alt text} photos/new.gif] Python程序设计/Python实训 (2023-2024-1)
 ~~~~
 [teaching/python-zh/0_1_基础知识.pdf 0_1_基础知识.pdf]~~ [teaching/python-zh/0_入门.pdf  0_入门.pdf]~~ [teaching/python-zh/1_python介绍.pdf  1_python介绍.pdf]~~ [teaching/python-zh/lab0_学生pinta操作.pdf lab0_学生pinta操作.pdf] ~~\n
 
-[teaching/web/4_jinja.pdf 1017_jinja] ~~ [teaching/web/Lab2.pdf 1024_lab2] ~~ [teaching/web/5_form.pdf 1031_form] ~~ [teaching/web/6_database.pdf 1107_database]  \n
-
-[teaching/web/Lab3.pdf 1114_lab3] \n
-
 
 ~~~~
 
-== [img{25px}{15px}{alt text} photos/new.gif] Python程序设计* (2022-2023-1)-02914-1
+== [img{25px}{15px}{alt text} photos/new.gif] Python程序设计*/Python实训 (2023-2024-1)
 ~~~~
-[teaching/python/0_Welcome.pdf 0908_welcome]~~ [teaching/python/0_1_Basis.pdf 0908_basis]~~ [teaching/python/1_intro.pdf 0915_intro] ~~ [teaching/python/2_variables_numbers.pdf 0922-0929_variables_expressions_statements] ~~\n
+[teaching/python-en/0_Welcome.pdf 0_Welcome.pdf]~~ [teaching/python-en/0_1_Basis.pdf 0_1_Basis.pdf]~~ [teaching/python-en/1_intro.pdf 1_intro.pdf] ~~ [teaching/python-zh/lab0_学生pinta操作.pdf lab0_学生pinta操作.pdf] ~~\n
 
-[teaching/python/3_builtin_tuples_lists.pdf 1008_lists_strings_tuples] ~~ [teaching/python/4_builtin_sets_dicts.pdf 1013_dicts_sets] ~~ [teaching/python/5_control_flow_1.pdf 1027_control_flow_part1] ~~ [teaching/python/6_control_flow_2.pdf 1103_control_flow_part2] ~~\n
-
-[teaching/python/7_function_1.pdf 1110_function_part1] ~~ [teaching/python/7_function_2.pdf 1117_function_part2] ~~ [teaching/python/8_problem_set.pdf 1124_problem_set1] ~~ [teaching/python/9_files.pdf 1201_files] ~~ \n
-
-[teaching/python/10_classes.pdf 1208_classes] ~~ [teaching/python/11_review.pdf 1215_review.pdf] ~~ [teaching/python/12_problem_set2.pdf 1222_problem_set2] ~~ \n
 
 \n
-\n
-[teaching/python/python-asg1.pdf 0929_assignment1]\n
 ~~~~
-
-== 学科专题讲座 (2021-2022-2)-62999-1
-~~~~
-- 专题报告 ~~[http://10.11.195.12:1110/courses/2021-2022-2-xkztjz/luo-62999-1.pdf 自然语言处理：文本生成] \n
-~~~~
-
