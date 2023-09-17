@@ -3,9 +3,9 @@
 ~~~~~~~~~~~~~~~~~~~~
 - *Note: 本学期课件可通过外网访问下载，往届课件需要使用浙江理工大学校园网进行下载。*
 []\n
-== [img{25px}{15px}{alt text} photos/new.gif] web应用开发 (2022-2023-1)-62719-1
+== [img{25px}{15px}{alt text} photos/new.gif] Python程序设计 (2023-2024-1)-02030/02031-1
 ~~~~
-[teaching/web/1_基础介绍.pdf  0905_intro]~~ [teaching/web/Lab1.pdf  0919_lab1]~~ [teaching/web/2_flask_http.pdf  0926_http]~~ [teaching/web/3_html_css.pdf 1010_html_css_javascript] ~~\n
+[teaching/python-zh/0_1_基础知识.pdf 0_1_基础知识.pdf]~~ [teaching/python-zh/0_入门.pdf  0_入门.pdf]~~ [teaching/python-zh/1_python介绍.pdf  1_python介绍.pdf]~~ [teaching/python-zh/lab0_学生pinta操作.pdf lab0_学生pinta操作.pdf] ~~\n
 
 [teaching/web/4_jinja.pdf 1017_jinja] ~~ [teaching/web/Lab2.pdf 1024_lab2] ~~ [teaching/web/5_form.pdf 1031_form] ~~ [teaching/web/6_database.pdf 1107_database]  \n
 
