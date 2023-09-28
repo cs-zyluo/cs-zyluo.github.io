@@ -2,47 +2,12 @@
 = Projects
 ~~~~~~~~~~~~~~~~~~~~
 []\n
-== 1. Commonsense Causal Reasoning between Short Texts
-- *CausalNet* \n
-CausalNet consists of a large amount of causal relationships extracted from Bing web pages.\n
-Each causal relationship is a triple as following: CAUSE_WORD\[\\t\]EFFECT_WORD\[\\t\]FREQUENCY\n
-You can download CausalNet from [http://10.11.195.12:1106/code/CausalNet-master.zip here].
+== 1. A Token-based Transition-Aware Joint Framework for Multi-Span Question Answering (Under Review)
+- *CLEAN 1.0 dataset* \n
+You can download CLEAN 1.0 dataset [../misc/clean_v1.0_sample.json here]. Now, this is a sample version of CLEAN, and the full version will be released after review.
 \n
-- *Publications* \n
-Please cite the following paper if you are using CausalNet and [http://10.11.195.12:1106/code/CausalNet-master.zip the code]. Thanks!\n
-   *Zhiyi Luo*, Yuchen Sha, Kenny Q. Zhu, Seung-won Hwang, Zhongyuan Wang, "*Commonsense Causal Reasoning between Short Texts*",
-Proc. of 15th Int. Conf. on Principles of Knowledge Representation and Reasonging (KR'2016), Cape Town, South Africa.
-
-== 2. AliCoCo2: Commonsense Knowledge Extraction, Representation and Application in E-commerce
-- *Overview of AliCoCo2* \n
+- *Prediction files* \n
+We locate the prediction files here for your review and verification: \n
+[../misc/roberta_base_joint_msqa_expand_results.txt roberta_base_TOAST_joint_MSQA-Exp] ~~~~ \n
+[../misc/roberta_base_tag_msqa_expand_results.txt roberta_base_TOAST_tag_MSQA-Exp]
 \n
-[img{700px}{350px}{alt text} photos/alicoco2_overview.png]
-\n
-- *Representation* \n
-\n
-[img{800px}{250px}{alt text} photos/alicoco2_representation.png]
-\n
-
-== 3. 基于数据与知识驱动的知识产权可信价值确定协同量化
-- *科学问题与研究内容* \n
-\n
-[img{400px}{230px}{alt text} photos/content_publish.png]
-\n
-- *技术路线* \n
-\n
-[img{650px}{300px}{alt text} photos/roadmap_publish.png]
-
-- *认知图谱架构* \n
-\n
-[img{700px}{350px}{alt text} photos/kg.png]
-
-- *多任务协同* \n
-\n
-[img{350px}{200px}{alt text} photos/multitask.png]
-\n
-- *数据的可信分布式存储* \n 
-\n
-[img{450px}{250px}{alt text} photos/IPFS.png]
-\n
-
-
