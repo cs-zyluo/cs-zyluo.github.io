@@ -1,0 +1,47 @@
+# jemdoc: menu{MENU}{publications.html}, nodate
+== Publications (Selected)
+
+*Notice:* 1. Some documents from this page are copyright to the respective publishing companies or organizations that publish these papers. Use of the copies obtained here are for academic and educational purposes only. 2. All *cites* are sourced from Google scholar and were updated on Jan 2024.
+
+== 2024
+- *Z. Luo*, Y. Zhang, S. Luo \n
+  *A Token-based Transition-Aware Joint Framework for Multi-Span Question Anwering* \n
+  **Information Processing \& Management (IPM'2024). \n
+  \[SCI一区TOP期刊; CCF-B\]**
+#You can download a sample version of CLEAN 1.0 dataset [../misc/clean_v1.0_sample.json here]. Please note that this is a limited version, and the full dataset will be released after undergoing the review process. 
+
+#\n
+# - *Prediction files* \n
+# We locate the prediction files here for your review and verification: \n
+# [../misc/roberta_base_joint_msqa_expand_results.txt roberta_base_TOAST_joint_MSQA-Exp] ~~~~ \n
+# [../misc/roberta_base_tag_msqa_expand_results.txt roberta_base_TOAST_tag_MSQA-Exp]
+# \n
+== 2021
+- X. Luo, L. Bo, J. Wu, L. Li, *Z. Luo*, Y. Yang, K. Yang \n
+  *AliCoCo2: Commonsense Knowledge Extraction, Representation and Application in E-commerce* \n
+  **ACM SIGKDD Conference on Knowledge Discovery (SIGKDD'2021).\n
+  \[CCF-A\] \[*13* cites\]**
+== 2019
+- *Z. Luo*, S. Hang, KQ. Zhu \n
+  *Knowledge empowered prominent aspect extraction from product reviews* \n
+  **Information Processing \& Management (IPM'2019). \n
+  \[SCI一区TOP期刊; CCF-B\] \[*56* cites\]**
+== 2018
+- *Z. Luo*, S. Hang, FF. Xu, BY. Lin, H. Shi, KQ. Zhu \n
+  *ExtRA: Extracting Prominent Review Aspects from Customer Feedback* \n
+  **Conference on Empirical Methods in Natural Language Processing (EMNLP'2018). \n
+  \[CCF-B\] \[*14* cites\]**
+- Y. Liu, *Z. Luo*, KQ. Zhu \n
+  *Controlling Length in Abstractive Summarization Using a Convolutional Neural Network* \n
+  **Conference on Empirical Methods in Natural Language Processing (EMNLP'2018). \n
+  \[CCF-B\] \[*80* cites\]**
+== 2017
+- BY. Lin, FF. Xu, *Z. Luo*, KQ. Zhu \n
+  *Multi-channel bilstm-crf model for emerging named entity recognition in social media* \n
+  **Workshop on Noisy User-generated Text  (WNUT@EMNLP'2017). \n
+  \[*152* cites\]**
+== 2016
+- *Z. Luo*, Y. Sha, KQ. Zhu \n
+  *Commonsense Causal Reasoning between Short Texts* \n
+  **Principles of Knowledge Representation and Reasoning (KR'2016). \n
+  \[CCF-B\] [*110* cites\]**
