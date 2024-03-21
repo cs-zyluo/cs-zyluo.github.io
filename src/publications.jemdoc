@@ -5,7 +5,7 @@
 
 == 2024
 - *Z. Luo*, Y. Zhang, S. Luo \n
-  *A Token-based Transition-Aware Joint Framework for Multi-Span Question Anwering* \n
+  *A Token-based Transition-Aware Joint Framework for Multi-Span Question Answering* \n
   **Information Processing \& Management (IPM'2024). \n
   \[SCI一区TOP期刊; CCF-B\]**
 #You can download a sample version of CLEAN 1.0 dataset [../misc/clean_v1.0_sample.json here]. Please note that this is a limited version, and the full dataset will be released after undergoing the review process. 
